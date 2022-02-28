@@ -1,0 +1,477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kingdomes key, to lock out, or let in an enemy: or, Certain Parliamentary proceedings, concerning the peninsula of Lovingland, in the county of Suffolk. By John Vfflet.</title>
+            <author>Ufflet, John, b. 1603.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95763</idno>
+            <idno type="STC">Wing U19</idno>
+            <idno type="STC">Thomason E362_1</idno>
+            <idno type="STC">ESTC R201210</idno>
+            <idno type="EEBO-CITATION">99861742</idno>
+            <idno type="PROQUEST">99861742</idno>
+            <idno type="VID">113885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kingdomes key, to lock out, or let in an enemy: or, Certain Parliamentary proceedings, concerning the peninsula of Lovingland, in the county of Suffolk. By John Vfflet.</title>
+                  <author>Ufflet, John, b. 1603.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffolk (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113885:1"/>
+            <pb facs="tcp:113885:1" rendition="simple:additions"/>
+            <p>THE Kingdomes Key, <hi>TO</hi> LOCK OVT, OR LET IN <hi>AN</hi> ENEMY: OR, Certain Parliamentary Proceedings, concerning the <hi>Peninſula</hi> of <hi>Lo<g ref="char:EOLhyphen"/>vingland,</hi> in the County of <hi>SVFFOLK.</hi>
+            </p>
+            <q>Nec propter vitam vivendi perdere cauſam.
+<bibl>
+                  <hi>Juven.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>JOHN VFFLET.</hi>
+            </p>
+            <p>LONDON, Printed in the Yeare. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:113885:2"/>
+            <pb n="1" facs="tcp:113885:2"/>
+            <head>TO The worthily Honoured SPEAKER, of the Honourable Houſe of COMMONS <hi>William Lenthall</hi> Eſquire.</head>
+            <opener>
+               <salute>HONOURED SIR,</salute>
+            </opener>
+            <p>WHat you once vouchſafed to entertain, and promote, I beſeech you now maintain &amp; vindicate: God his glory, and the Publique ſafety is concern'd in it, and calls for it. My Innocencie ſeekes protection under your inte<g ref="char:EOLhyphen"/>grity: if oppreſſion, or tempta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, could haue driven, or drawn me to the Enemy, I might with others have enjoyed a ſlippery felicity: But <hi>I</hi> praiſe <hi>GOD,</hi> He hath given me a courage to maintain my honeſt reſolutions, for my deare, but diſtreſſed Countries Welfare, againſt high, and powerfull Adverſaries. The ordinary wayes of my addreſſe, for redreſſe of miſchiefes, and inconveniencies, being blockt up; <hi>I</hi> am enforced to take this extraordinary courſe. If what you find here, pro<g ref="char:EOLhyphen"/>ceed from a faithfull heart; the Covenant warrants me you will pro<g ref="char:EOLhyphen"/>tect me: if from a fooliſh, it being an errour of love, you will admoniſh me: but, if from a falſe one, ſeverely puniſh it in</p>
+            <closer>
+               <signed>Your humbleſt ſervant, IOHN UFFLET.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:113885:3"/>
+            <head>To all True-Lovers of <hi>Englands</hi> Proſperity.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Never was ambitious of being a man in Print, thereby to publiſh my imperfections: But this ſubject is of that concernment for the common preſervation of <hi>England,</hi> that I ſhall moſt willingly expoſe my life, and fame, to all hazard, and contempt, for the welfare of my Country. I have obſerved all the windings and turnings of the Je<g ref="char:EOLhyphen"/>ſuited Serpent, in his obstructing of this places ſecurity, ever ſince the beginning of theſe ſad divided times: and if I may have an impartiall hearing, ſhall diſcover them. <hi>Dunkirk</hi> is now in poſſeſſion of the <hi>French,</hi> by reaſon of the Netherlands correſponding with them, in the archieving of it. Soveraign favours tend principally to the enlarge<g ref="char:EOLhyphen"/>ment of their own Intereſts; what this place may prove in a forraigne poſſeſſion, which is not only an Inlet to a future Conqueſt, but ſhall at preſent contribute moſt (of any particular place in the Kingdome) to the ſubverſion of the whole Nation, and alſo engroſſe all Northern Traffique. It will not be vaſt ſummes, and multitude of lives, that will regain it, if once loſt: It may be ſuppoſed by ſome, that theſe cautions to our friends, may be an inſtructio<g ref="char:cmbAbbrStroke">̄</g> to our enemies. Let ſuch know, that the only obstruction of this buſineſſe, hath proceeded frdm our enemies too much knowledge, and our friends to little, which yet they may im<g ref="char:EOLhyphen"/>prove, and prevent their miſchievous deſignes, and provide for our ſafe<g ref="char:EOLhyphen"/>ty. If the Parliament will yet be pleaſed, to ſend down an upright and judicious Commander, one of quick eyes, patient eares, and clean hands, to view the place and report to them; they may ſecure themſelves, awe their enemies, and help their friends, and confederates. And if what is here ſuggeſted, be not fully proved and performed, but that I have cau<g ref="char:EOLhyphen"/>ſed
+<pb n="3" facs="tcp:113885:3"/>the State to ſend their Commiſſioner upon impertinencies, the Bryars of Oppreſſion have n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſo bared me, but let the charge be de<g ref="char:EOLhyphen"/>frayed out of the remainder of my poor eſtate, rather then the Com<g ref="char:EOLhyphen"/>mon-wealth ſhould ſuffer one penny, by my folly. This is all I can do; if more I could, I would: but it comforts me, that I have in this fulfil<g ref="char:EOLhyphen"/>led the Covenant; <hi>That what I am notable of my ſelfe to ſup<g ref="char:EOLhyphen"/>preſſe, or over-come, I ſhall reveal, and make known, that it may be timely prevented, or removed,</hi> which ſhall be the earneſt prayer, and utmoſt endeavours, of</p>
+            <closer>
+               <signed>Your Country-man, <hi>JOHN UFFLET.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="verse">
+            <lg>
+               <l>
+                  <hi>Sol</hi> doth no ſooner riſe from's Eaſtern bed,</l>
+               <l>But by <hi>Aurora,</hi> is first welcomed,</l>
+               <l>In <hi>Lovinglands</hi> faire Iſle, The only place</l>
+               <l>That Art and Nature by their ſoft embrace</l>
+               <l>Bleſt have, with profit and delight; A Soyle</l>
+               <l>Proud Forraigners, with bloodied ſoule would toyle;</l>
+               <l>To maſter <hi>Engliſh-men,</hi> moſt thankefull be</l>
+               <l>To him, that lets you peace, and perill ſee.</l>
+            </lg>
+            <closer>
+               <signed>John Aſhe.</signed>
+            </closer>
+         </div>
+         <div type="essay">
+            <pb n="4" facs="tcp:113885:4"/>
+            <head>
+               <hi>The Deſcription of</hi> Lovingland.</head>
+            <p>THE <hi>Peninſula</hi> of <hi>Lovingland</hi> in the County of <hi>Suffolke,</hi> in Longitude extends it ſelf 7 mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, in Latitude 4. It contains 16. Pariſhes, abounding with all things requirable, either by neceſſity, or delight, by way of ſuſtentation, or recrea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion: Its bleſt with a heal<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> full A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re: ſci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uated for a generall accommo<g ref="char:EOLhyphen"/>dation of Trade, having the Sea bordering upon a fourth part of it; the o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her parts being begirt with the great Rivers of <hi>Yare,</hi> and <hi>Waurney,</hi> by which, the Country commodities are brought unto it, and from thence tranſported to all tranſmarine parts.</p>
+            <div type="section">
+               <head>Strength.</head>
+               <p>To ſurvey it in its naturall ſtrength; the whole <hi>Peninſula</hi> is (as it were) raiſed into one intire Hi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: defended towards the Sea with Cliffs and Sands, and on all parts by Land, ſurrounded with a ſpacious levell of low grounds, ami<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ſt which levell runs the fore-named Rivers, diſcharging themſelves (with a third) into the Sea through the ſaid Iſla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, by which they are all com<g ref="char:EOLhyphen"/>manded: So that it is in acceſſib<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by Land, four paſſages exce<g ref="char:EOLhyphen"/>pted, and one by Sea, called New<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on Gap: which plac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, not improperly, for its heal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, fertility, ſtrength, and pleaſure, hath antiently been tearmed, <hi>little,</hi> or <hi>Low-England,</hi> God having in a ſmaller character contracted his bleſſings to the whole Iſland in this <hi>Peninſula.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Inhabitants.</head>
+               <p>For the diſpoſition of its Inhabitants, their affections may be eaſily read in this; That ſince the b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ginning of theſe ſad times, there hath not been one voluntary horſe or foot ſouldier ſent out of the whole Iſland into the Parliaments ſervice; and at this preſent, the poſture of Defence marches but lamely on there.</p>
+            </div>
+            <div type="section">
+               <pb n="5" facs="tcp:113885:4"/>
+               <head>Endeavours.</head>
+               <p>This place and people in theſe diſtracted times, have been ta<g ref="char:EOLhyphen"/>ken into conſideration by both parties: The Parliament at the inſtance of <hi>Yarmouth, Auguſt.</hi> 1643. paſſed an Ordinance in the Houſe of Commons for the fortifying of it, Major <hi>Knights</hi> (by command) came to view it, the Bayliffes of great <hi>Yarmouth</hi> were ſollicitors, and importunate, to have it put in ſuch a po<g ref="char:EOLhyphen"/>ſture, as might render it defenſible, both to it ſelf, and them. Sir <hi>John Hobart</hi> (at <hi>Norwich,</hi> moved the Earl of <hi>Mancheſter,</hi> that hee would ſtirre up a perſon of eſtate (in the ſaid <hi>Peninſula</hi>) whom he conceived to be too remiſſe in a matter of ſuch concernment as he (at that time) apprehended it to be. After which, Mr. <hi>Miles Corbet</hi> (a Member of the Houſe) ſent a Captain into it with a Company of Souldiers: The Earl of <hi>Mancheſter</hi> moſt providently ſent up to the Parliament, and Committee of both Kingdoms about it: And being ſenſible of the danger or wel<g ref="char:EOLhyphen"/>fare, the whole Kingdome would be in, either by the loſſe, or preſervation of it, was contented to part with a large proporti<g ref="char:EOLhyphen"/>on, of what was allowed him, for maintenance of the Aſſociated Army.</p>
+               <p>It is moſt worthy of a ſerious deliberation, for what ends all theſe endeavours have been all theſe times obſtructed, and to recollect by what by-wayes, and under-hand-dealings it hath hitherto been retarded. Firſt, for the Commanders (entruſted with it by the Earl of <hi>Mancheſter</hi>) neither envie, nor malice could throw any aſperſion upon them (that would leave a ble<g ref="char:EOLhyphen"/>miſh behind it) but their Officers were traduced: yet they were ſuch as ventured both their lives and eſtates firſt, in the ſervice of the Parliament, in the Aſſociation. Then were the ſoul<g ref="char:EOLhyphen"/>diers ſent by the aforeſaid Mr. <hi>Corbet</hi> branded with ſtrange opi<g ref="char:EOLhyphen"/>nions (purpoſely to render them odious.) Yet I believe they will hardly be parallel'd for their patience, and integrity: for, from <hi>March</hi> till <hi>Auguſt,</hi> they received little or no pay; and yet I could never hear, that the Country could charge any one among them, for violently taking any thing, to the value of a chicken.</p>
+            </div>
+            <div type="section">
+               <pb n="6" facs="tcp:113885:5"/>
+               <head>Attempts.</head>
+               <p>For the Attempts that have been in it, I ſhall offer ſuch as come to mind. Firſt, <hi>Allen</hi> landed many warlike proviſions in it, after the Commiſſion of Array ſhould have been ſet up in it, by divers Knights and Gentlemen aſſembled in it for that end; but prevented by Lieut-Gen. <hi>Cromwel,</hi> by whom the aforeſaid <hi>Allen</hi> was then amongſt others taker, and committed to cuſto<g ref="char:EOLhyphen"/>dy, and thoſe entruſted with authority promiſed a care ſhould be taken both of the place, and <hi>Alien,</hi> which how obſerved, would be examined. All Papiſts and Malignants have, and ſtill do reſort to it, either for flight, or refuge: many of the moſt ex<g ref="char:EOLhyphen"/>pert Pylots, and Sea-men, have withdrawn themſelves into <hi>Dunkirke,</hi> and continually rob upon the Coaſts.</p>
+            </div>
+            <div type="section">
+               <head>Examples.</head>
+               <p>How antient times have eſteemed of this place, the ruines of <hi>Burrow</hi>-Caſtle, will informe us: For hither the Romanes tranſ<g ref="char:EOLhyphen"/>planted their Colonies, and bridled the whole Eaſt of <hi>England</hi> by it. And of late days, the Remainders of the Fortifications rai<g ref="char:EOLhyphen"/>ſed in <hi>Anno</hi> 1588. will read a ſufficient lecture to us of our noble Predeceſſours circumſpection: So that by our enemies, it hath been eſteemed the only place of theſe parts, worthy of their ſur<g ref="char:EOLhyphen"/>prize to defend themſelves, and to ſubdue us: and our owne State hath conſidered of it, as the principall place of theſe parts, to be ſecured againſt all forraign attempts, leaſt to our irrepara<g ref="char:EOLhyphen"/>ble loſſe it ſhould happen to be violenced from us.</p>
+            </div>
+            <div type="section">
+               <head>Conjctures.</head>
+               <p>Let it be conſidered whether lying ſo conveniently, to ſubſiſt of it ſelfe, and to defend it ſelfe, and to offend the whole King<g ref="char:EOLhyphen"/>dome (it commanding the whole Trade from the North to <hi>London</hi>) eſpecially of Fiſh, and Fuel, if it be not of more im<g ref="char:EOLhyphen"/>portance to <hi>France,</hi> or <hi>Spaine,</hi> then the Iſles of <hi>Rhee</hi> and Cales could formerly have been to the <hi>Engliſh</hi> in caſe they could have ſurpriſed either of them; Is it not more worthy of <hi>France</hi> and <hi>Spaines</hi> endeavours? being ſo ſhort a cut as 20. houres Saile from <hi>Dunkirke,</hi> where many of our chiefe Seamen, and Pylot of theſe Coaſts, are now reſident: ſo as if it ſhould be ſurpriſed
+<pb n="11" facs="tcp:113885:5"/>by them, it is more impregnable then <hi>Dunkirke,</hi> and wou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> prove more obnoxious to the <hi>Engliſh.</hi>
+               </p>
+               <p>Hiſtorie hath recorded it as the grand overſight of the Duke <hi>De Alua</hi> his neglect of the porces adjacent to the Searby which error he irrecoverably loſt his Miſter the dominion of the <hi>Netherlands.</hi>
+               </p>
+               <p>Now it is as worthy conſideration, whether it be not likely, as well, as poſſible, that in theſe times; our <hi>Engliſh</hi> fugitives, may not ſurprize the ſaid <hi>Pene-Inſula</hi> with two thouſand men, who in three houres may cut through the <hi>Iſthmus;</hi> to let in the Sea, and drowne the Level, till ſuch time as they ſhall moſt ſuf<g ref="char:EOLhyphen"/>ficiently fortifie themſelves, and receive all home-bred Malig<g ref="char:EOLhyphen"/>nants unto them, and by ſea take in continuall ſupplies of for<g ref="char:EOLhyphen"/>raigne Aydes, and being accommodated with <hi>Dunkirke</hi> Fri<g ref="char:EOLhyphen"/>gots, and other pyraiticall Veſſels of which the fugi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives have a ready a conſiderable number under their command, whether they having joyned theſe places of <hi>Lovingland</hi> and <hi>Dunkirke</hi> (in a recipre call correſpondency of each others mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uall aſſiſtance) ſhall not onely infeſt (but as it were) block up this part of the Ocean, and then what ſad conſequents it will be accompanied with, as the deſtruction of the <hi>Eaſtern</hi> Aſſociation and the ſtraightning of the City of <hi>London;</hi> will ſoone appeare.</p>
+            </div>
+            <div type="section">
+               <head>Remedi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</head>
+               <p>Much more may be declated, to illuſtrate and demonſtrate the danger and neceſſity, to prevent all theſe imminent dangers: foure hundred foote Souldiers maytained will be a ſufficent re<g ref="char:EOLhyphen"/>medy againſt enſuing dangers, which Gariſon would be conti<g ref="char:EOLhyphen"/>nued in the moſt Halcyon dayes (if duly perpended) for the conſervation of Peace and Trade.</p>
+               <p>For the defraying of which charge, I aſcertaine my ſelfe I can open away, that the burden ſhall be ſo light, that I am con<g ref="char:EOLhyphen"/>fident none (but lovers of themſelves and the world) will repine at. (the meaner ſort theſe hard times being altogether freed.)</p>
+               <p>Laſtly, I ſubmit to all underſtanding, and upright Judge<g ref="char:EOLhyphen"/>ments and Conſciences, whether theſe motives and induce<g ref="char:EOLhyphen"/>ments were not ſufficient (the time and advantages conſider<g ref="char:EOLhyphen"/>ed)
+<pb n="8" facs="tcp:113885:6"/>to incite, and ſtir up our adverſaries to attempt it, or to move <hi>France</hi> or <hi>Spaine</hi> to retaliate our enterprizes of <hi>Rhee,</hi> and <hi>Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es.</hi>
+               </p>
+               <p>From theſe poore ſparkes; better judgements may raiſe a greater light, both to direct our friends out of that obſcurity, they have been ſo long in: and to detect our adverſaries in their darkeſt corners.</p>
+               <p>Theſe proceedings, and reaſons I preſented to the Honourable Speaker upon the ſeventeenth of Februarie, Anno. 1644. by which; his zealous affections for his Countries good were mov<g ref="char:EOLhyphen"/>ed to obtaine this enſuing Order to paſſe the Houſe of Com<g ref="char:EOLhyphen"/>mons the 19. of the ſame moneth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Die Mercurii. 19. Feb. 1644.</head>
+                     <p>
+                        <hi>IT is this day Ordered by the Commons aſſembled in Parliament, that it be referred to the Committee of both Kingd<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ms, to conſi<g ref="char:EOLhyphen"/>der of the Pene-Inſula of</hi> Lovingland, <hi>and whether it may be for the advantage of the Publike, to ſecure it by fortifications: and in what manner it may beſt be done, and what will he the neceſſary charge thereof.</hi>
+                     </p>
+                     <closer>
+                        <signed>H. Elſing Cler. Parl. Do. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Vpon the paſſing of this Order, the day after being the twentieth of Februarie; I drew up this following Petition, and the ſame day preferred it to the Committee of both King<g ref="char:EOLhyphen"/>doms.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <head>To the Right Honourable Committee of ſafety of both Kingdoms.</head>
+            <head type="sub">The humble Petition of Iohn Vfflet Gentleman.</head>
+            <opener>HVMBLY SHEWETH,</opener>
+            <p>THat whereas the Honourable Houſe of Commons upon in<g ref="char:EOLhyphen"/>formation received, concerning the danger (and neceſſity of ſecureing) of the <hi>Pene-Inſula</hi> of <hi>Lovingland,</hi> which hath
+<pb n="9" facs="tcp:113885:6"/>been too long neglected, have by their order bearing d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te the ninteenth of this inſtant February referred it to this Honoura<g ref="char:EOLhyphen"/>ble Committee, to conſider o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to the advantage of the Pub<g ref="char:EOLhyphen"/>like, and to ſecure it by fortification, and in what manner it may beſt be done, and what will be the neceſſarie charge thereof.</p>
+            <p>May it therefore pleaſe this moſt Honourable Committee to take into your ſerious conſideration accordingly, the preſent condition of the ſaid <hi>Pene-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſula,</hi> and after ye are truly, and fully informed by this annexed declaration, which I hope will give ſuch ample ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isfaction, that your Honours will be plea<g ref="char:EOLhyphen"/>ſed to diſpoſe of it, to the Kingdoms good, and to the fruſtra<g ref="char:EOLhyphen"/>ting of our adverſaries plots, which have had too long and great an i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fluence to obſtruct ſo noble and neceſſarie a worke; and I ſhall in all humble duty be bound to pray, &amp;c.</p>
+            <p>Vpon this Petition, I attended from the delivery of it, till the eight of March, was then diſmiſſed upon the engagement of ſome of that Country that it ſhould be provided for, <hi>which, how performed, if examined; would be found very foule.</hi>
+            </p>
+            <p>I returned home, where for my good intentions, I have been loaden with reproach, contempt, and oppreſſion, yet could not be diſcouraged, having been formerly imployed in it, and having an eye to all the indirect proceedings that were and are ſtill uſed to delude the State, and to ſatisfie the moſt unworthy deſires of ſuch whoſe ends are chiefly Ambition, and avarice, who have ſince the begining of theſe times been the prime hinderers of it, I being acquainted with the ſubtle and falſe practiſes of the chiefe opponents in the affaire, was ſolici<g ref="char:EOLhyphen"/>tous how I might make it appear to the State the incertain con<g ref="char:EOLhyphen"/>dition we were in, upon which I drew up a Petition, &amp; certain propoſitions which I intended to deliver to the Speaker, but by the way I was impriſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned by ſome Committee men of <hi>Bury,</hi> and all my papers which were ſealed up and ſuperſcribed to the Honourable Speaker of the Houſe of Commons broken o<g ref="char:EOLhyphen"/>pen by them, and delivered into the hands of Sir I. W. the State<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cloſe enemy and my profeſt, oppreſſing adverſary, ſo that they have left me the ſubject of his malice and hatred;
+<pb n="8" facs="tcp:113885:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:113885:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:113885:8"/> What thoſe Papers were, I ſent a Liſt of to Mr. <hi>William Ryley,</hi> with a Petition to the Houſe of Commons, in a Letter; but ne<g ref="char:EOLhyphen"/>ver received any account in his proceedings therein. I ſhall here publiſh the Letter, Petition, and Liſt, that I may be judged by my Country, for the evill that is in them; becauſe ſome Caterpillars of the Common-Wealth, would render me odious to my coun<g ref="char:EOLhyphen"/>try, for my poor endeavours uſed herein.</p>
+         </div>
+         <div type="letter">
+            <head>To Mr. William Riley.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Noble friend,</salute>
+                  </opener>
+                  <p>J According to your deſire, and in diſcharge of my owne en<g ref="char:EOLhyphen"/>gagement to you, ſhall give you an account of our Iſlands eſtate, and in it of my own ſad condition: After I left you, I the day following, being the 2 of July, appeared before the <hi>Bury</hi> Committee, where I had not ſo much as a word of re<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſpake unto me, though formerly reputed for a vilde and unworthy perſon, but am now by them cleered, and enlarged: yet to be abuſed, reproached, my life endangered, my body im<g ref="char:EOLhyphen"/>priſoned, my eſtate by unneceſſary charges conſumed; and af<g ref="char:EOLhyphen"/>ter travelling ſo many miles at my own charge, and having ſo powerfull an Adverſary, as Sir <hi>J.W.</hi> who boaſts of his Party hee hath in the houſe, which he deludes, and the Committee he hath p<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſeſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with miſ-informations, theſe are great diſcourage<g ref="char:EOLhyphen"/>ments: and row this laſt exceeds all the reſt; for he is become maſter of all thoſe poor indeavors that I had uſed for my Coun<g ref="char:EOLhyphen"/>tries welfare. I would fain have avoided his g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ining of them, and thereupon I preſumed to encloſe them in a ſheet of paper, ſealed them up, and directed them to the Speaker. The Commit<g ref="char:EOLhyphen"/>tee-men might have truſted <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h them, when they had im<g ref="char:EOLhyphen"/>priſoned my perſon, which was lyable to any puniſhment, which the State ſhould have cenſured me to have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rved. I have here incloſed, ſent you a Liſt of all the Writing, that were in the Packet, directed to the Speaker. Let them, I beſeech you, be demanded; and if there be any thing contained in them, un<g ref="char:EOLhyphen"/>beſeeming
+<pb n="10" facs="tcp:113885:8"/>a true lover of his Country, let ſevere puniſhment be inflicted upon m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. After all theſe troubles and vexations, I could be well content to ſit ſtill, and bewayle my Countries calamities; but that my conſcience dictates to me, that GOD (who in his providence, hath reſerved me to theſe times) en<g ref="char:EOLhyphen"/>joynes me, not to bind my Talent in a Napkin. You have known me above 20. yeares; yet I hope could never perceive me to be of a factious inclination. Good friend, I cannot at preſent, but look upon theſe vaſt expences of bloud, and treaſure, but as the only meanes to give a forraign Foe, that which his own vertue would never ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain: our own diviſions will be the inlet of our miſeries; in conſideration whereof, I have alwayes had a vigi<g ref="char:EOLhyphen"/>lant eye upon this <hi>Peninſula,</hi> it being one of the <hi>Ardua Arcana Regni,</hi> and am confiden, can make it out to the Speaker, that this place is the principall in the Kingdome, either for the French, Spaniſh, or Netherlands, to begin an invaſion. Let the whole Aſſociation bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt; this k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, may regain it: this, in an enemies p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſion, drawes the whole Aſſociation with it: beſides, ſtraightens the City of <hi>London.</hi> My griefe would be the leſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, did I not know ſo mue<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> When oneſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s his friend contracting his limbes, his eyes ſtaring, and his mouth ſoming; he may con<g ref="char:EOLhyphen"/>clude with pitty, that hee hath the Falling-ſickneſſe: It is not diſcretion, to preſcribe a aure, but to repaire <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſie sk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>full Phy<g ref="char:EOLhyphen"/>ſitiah, I perceive ſad SymP<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omes in the Body politicall, God in mercy inable our State Phyſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ians, to diſcharge their duties: Where Juſtice is not by man executed, God will come with Judgment. Sweer Sir, you in ſome part were a meanes for my acceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the Speaker, and gave mecoragement to goe on in this cauſe: Suffer nor <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> me to fall, it will, I doub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not, be for God his glory, and this Kindomes good Preſent this inclo<g ref="char:EOLhyphen"/>ſed Petition to the Speaker, and ſtand on longer b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me, then I ſtand for Truth, and my C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>untries welfree.</p>
+                  <p>On the 6, of this inſtant moneth, divers Pyrates of <hi>Dunkirke</hi> aken by u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and freed, did take a Boat, and are gone: We are in that ſecu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, that to the Sea we haue not a common Watch kept. Be but a meanes, that the Speaker may tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> notice, who moved to have the Ordinance paſſe in the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe of Com<g ref="char:EOLhyphen"/>mons,
+<pb n="12" facs="tcp:113885:9"/>
+                     <hi>Auguſt</hi> 1643 and why it hath bee ſo oppoſed. There is not way to diſcover the Jugling of our Adverſaries, but by the eye of judgment. Let but a Commiſſioner that is upright be ſent downe, and he will diſcover ad the falſhoods and miſ-informations that have hindered it, to let in our ruine. I know, worthy friend, I am much cenſured, and maliced for my perſeverance in this action, but my encouragements ariſe from what I have laid my foundation on, which are Truth, Reaſon, and Experience. I pray preſe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n reſpects to Mr. <hi>Cole,</hi> who will give you all the furtherance that may be in this buſineſſe, to the Speaker. Kind friend, my love to my enſnared country, hath made me to enlarge my ſelf unto you, not doubting in the leaſt, to finde your reciprocall affections to move for the common-good, and to be helpfull to</p>
+                  <closer>
+                     <signed>Your true friend to ſerve you, <hi>J. V.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="list">
+            <head>
+               <hi>A Note of ſuch</hi> Papers, <hi>which were ſealed up, and directed to the</hi> Spea<g ref="char:EOLhyphen"/>ker, <hi>but intercepted by ſome Committee-men of</hi> Bury.</head>
+            <list>
+               <item>A Plot of the <hi>Peninſula</hi> of <hi>Lo<g ref="char:EOLhyphen"/>vingland.</hi>
+               </item>
+               <item>Two Declarations concerning the ſaid <hi>Peninſula.</hi>
+               </item>
+               <item>A Letter of Mr. <hi>Wil. Ryleyes.</hi>
+               </item>
+               <item>A Letter of Sir <hi>Iohn Hobarts</hi> unto me.</item>
+               <item>A Letter of <hi>Nich. Pacies.</hi>
+               </item>
+               <item>A Petition to have been pre<g ref="char:EOLhyphen"/>ſented to the Houſe.</item>
+               <item>A Warrant of the E. of <hi>Man<g ref="char:EOLhyphen"/>cheſters</hi> to me, which ſpeaks my firſt employment in this affaire.</item>
+               <item>Two Warrants more under the E. of <hi>Mancheſters</hi> hand and ſeale, that enabled mee to demand foure Pieces of Artillery from <hi>Yarmouth,</hi> &amp; two from <hi>Dunwich,</hi> to bee employed for defence of the Iſland.</item>
+               <item>An accuſation under my owne hand, againſt Sir <hi>I. W.</hi>
+               </item>
+               <item>A Captaines accuſation a<g ref="char:EOLhyphen"/>gainſt Sir <hi>I. W.</hi>
+               </item>
+               <item>Mr. <hi>H.B.</hi> ſenior, his examina<g ref="char:EOLhyphen"/>tion againſt Sir I. <hi>W.</hi> atteſted by his Son <hi>H.B.</hi> junior, <hi>G.I.W.K.G.A.</hi>
+               </item>
+               <item>A Commiſſion from Col. <hi>C.F.</hi> unto me.</item>
+            </list>
+         </div>
+         <div type="petition">
+            <pb n="13" facs="tcp:113885:9"/>
+            <head>To the Right Honourable the Knights, Citizens, and Burgeſſes, aſsembled in the Commons Houſe of Parliament.</head>
+            <head type="sub">The humble Petition of <hi>JOHN UFFLET,</hi> Gemleman.</head>
+            <opener>Humbly ſheweth;</opener>
+            <p>THat your Petitioner, who hath been formerly imployed in the buſineſſe of the <hi>Peninſula</hi> of <hi>Lovingland,</hi> by the Earl of <hi>Mancheſter,</hi> being confident of his own good intentions to<g ref="char:EOLhyphen"/>ward his country, and being an Inhabitant in the ſaid <hi>Peninſula,</hi> hath been a conſtant obſerver of the place &amp; of all paſſages that have been uſed both for, and againſt ſecuring of it, in theſe times of dan<g ref="char:EOLhyphen"/>ger and neceſſity; and finding, that his unworthineſſe, and diſabi<g ref="char:EOLhyphen"/>lity, for a matter of ſuch weight, did concur with the miſpriſion of others to render it (the 8. of <hi>March</hi> laſt) to the Honourable Com<g ref="char:EOLhyphen"/>mittee of both Kingdoms as a place not fit to be ſecured.</p>
+            <p>May it therfore pleaſe this moſt Honorable Houſe to be moved with the antient practiſes of the Romans, by the Judgement of the State in Anno. 1588. and the wiſdome of this Honourable Houſe, who both by your Ordinance, and Order, have with the reſt lookt upon it as the chiefe place in all the Faſt parts, that may be a meanes to preſerve, or enda<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the whole King<g ref="char:EOLhyphen"/>dome, to ſend downe an upright, and judicious Commander, to take an exact ſurvey of the place, danger, and neceſſitie, and to certifie this Honourable Houſe thereof, whereby you may come to the implicite truth, and diſcover the ſelfe ends, which have all this time been the onely cauſe of obſtructing this worke, and</p>
+            <closer>
+               <signed>Your Petitioner ſhall be ever bound to pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="conclusion">
+            <p>The Charge of the Gariſon will be defrayed with what the Earle of <hi>Mancheſter</hi> did formerly allot towards it, if the State
+<pb n="14" facs="tcp:113885:10"/>ſhall be pleaſed to allow of it, which was the monethly pay<g ref="char:EOLhyphen"/>ment<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Eaſt, and Weſt Fleg, great <hi>Yarmouth,</hi> and the halfe hundred of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vingland,</hi> with the benefit of ſo much of theſe<g ref="char:EOLhyphen"/>queſtration, iſſuing out of the forenamed places, as was aſſign<g ref="char:EOLhyphen"/>ed to the Earle of <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncheſter.</hi>
+            </p>
+            <p>And for preſent ſecureing of it, and putting it into a poſture of defence, if the State will be pleaſed to allow fower hundred pounds (beſide Ammunition) with the voluntary contributi<g ref="char:EOLhyphen"/>ons of the Inhabitants, and that the benefit of 6. dayes workes elapſed, and to come appointed by Statute for repairing high wayes, be converted to the worke of the fortifications, the I<g ref="char:EOLhyphen"/>ſland ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding in no great need of repairing high wayes: and what ſhall want, may be ſupplied out of the fines of Malignants, and diſaffected to the Parliament, as, if Juſtice may have her due courſe, there may be many diſcovered, and ſome, no means ones.</p>
+            <p>Here I have faithfully imparted, what I have at any time made knowne concerning this place: ſome-what more remaines collected by obſervation; That as yet my heart never made my tongue acquainted with. Oh let not the great Truſtees of <hi>Eng<g ref="char:EOLhyphen"/>and</hi> be diſpleaſed if I do heartily pray, that they would be pleaſed ſpeedily, for a ſhort time to ſpare the Right Honourable the Earle of <hi>Northumberland,</hi> and Lieutenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Cromw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> to review this place, that they both have for<g ref="char:EOLhyphen"/>merly had a ſight of, and been in. Theſe are perſons of dignity, honour, integri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d abilitie, without exceptions, and they muſt be great and good that give you a right underſtanding of this place. If I had any thing in the world to prize above my deſpiſed life, I would willingly engage i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that neither ye, not themſelves will looke upon it as a frui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peace, but eſteeme of it as one of the prime Jewels of the Kingdome. Whether doth my affection tranſportane? Pardon, o pardon (ye great ones) the preſumption; of your meaneſt,</p>
+            <closer>
+               <signed>VFFLET.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
